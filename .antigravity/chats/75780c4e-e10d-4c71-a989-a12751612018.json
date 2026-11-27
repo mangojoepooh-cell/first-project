@@ -4,5 +4,18 @@
   "createdAt": "2026-11-27T09:01:09.814Z",
   "filename": "75780c4e-e10d-4c71-a989-a12751612018.json",
   "geminiStarted": false,
-  "messages": []
+  "messages": [
+    {
+      "id": "cebf2c8a-80da-469f-8f46-d9d52bb6c9f1",
+      "role": "user",
+      "content": "전에 하던 프로그램 돌려보자고",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-27T09:12:39.309Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
